@@ -1,13 +1,9 @@
 Welcome to Picanto
 ===
 
----
+Top up your day with AI generated images on Pica Frame
 
-Top your day with AI generated images on Pica Frame
-
----
-
-We are in development
+<i>We are in development</i>
 
 ---
 
